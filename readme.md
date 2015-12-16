@@ -1,3 +1,5 @@
+Moved to https://github.com/Wiredcraft/gh-preview
+
 # GHDocs Embed
 
 ### Easily view linked PDF files in your GitHub Issues (or pull requests and milestones)
