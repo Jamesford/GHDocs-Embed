@@ -1,4 +1,4 @@
-Moved to https://github.com/Wiredcraft/gh-preview
+Moved to https://github.com/Wiredcraft/gdocs-preview
 
 # GHDocs Embed
 
